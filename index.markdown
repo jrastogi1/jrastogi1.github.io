@@ -5,7 +5,7 @@ title: Homepage
 
 <!-- Launch with `bundle exec jekyll serve --baseurl=""` -->
 
-# Welcome to My Portfolio
+# Welcome!
 Hi, I'm **Jai Rastogi**, a third year undergraduate at University of Maryland - College Park. I specialize in computer vision, robotics, and reinforcement learning, and am passionate about experimenting with and challenging the boundaries of today's technology for real-world applications. Explore my portfolio to see my projects, and feel free to connect with me through the contact page!
 
 ## Work Experience
@@ -17,7 +17,7 @@ A more comprehensive list of projects is located [here](/projects/).
 
 ### [LLM Model Serving Analysis](/projects/#llm-model-serving-analysis-october---december-2025)
 
-TODO brief overview
+As the load on large language models (LLMs) scales, it becomes necessary for the LLM servers to optimize model inference to return responses as quickly as possible. The two most popular frameworks for this purpose today are SGLang and vLLM, and are widely considered to give equal performance. My group was mentored by a Principal Software Engineer at NVIDIA, and we defined 'better performance' as capability to scale. After benchmarking both on NVIDIA A100s with load tests through Azure virtual machines, we determined that SGLang scales better, and presented our results to Microsoft. This provided valuable experience into Cloud Computing, and LLM benchmarking and analysis. 
 
 ### [Generative Adversarial Attacks on Image Classification](/projects/#generative-adversarial-attacks-on-image-classification-january---may-2025)
 
