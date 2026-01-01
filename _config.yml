@@ -23,7 +23,7 @@ email: jai1rastogi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website showcasing Jai's projects and skills in Machine Learning
 domain: jrastogi1.github.io
-baseurl: "https://jrastogi1.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jrastogi1
 linkedin_username: jrastogi
