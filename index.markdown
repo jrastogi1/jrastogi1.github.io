@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Homepage
+permalink: /
 ---
 
 <!-- Launch with `bundle exec jekyll serve --baseurl=""` -->

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-permalink: /projects
+permalink: /projects/
 ---
 
 # LLM Model Serving Analysis (October - December 2025)
