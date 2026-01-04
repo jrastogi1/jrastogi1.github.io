@@ -31,11 +31,14 @@ My code is publicly available [here](https://github.com/jrastogi1/gaaic). I also
 # YoloSLAM (January - May 2025)
 
 TODO brief overview
+Note: still have all the data stored in onedrive under `Documents Ubuntu/research/vme_research` - take pictures from there
 
 # Robotic Cube Stacker (September - December 2024)
 
 TODO brief overview
+Note: show video, if I can find it
 
 # Using Bio-Signals to Predict Smoker Status (January - May 2024)
 
 TODO brief overview
+Note: link to `ipynb` somehow (currently on separate branch)
