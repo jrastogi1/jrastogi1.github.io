@@ -4,7 +4,7 @@ title: Homepage
 permalink: /
 ---
 
-<!-- Launch with `bundle exec jekyll serve --baseurl=""` -->
+<!-- Launch with `bundle exec jekyll serve` -->
 
 # Welcome!
 Hi, I'm **Jai Rastogi**, a third year undergraduate at University of Maryland - College Park. I specialize in computer vision, robotics, and reinforcement learning, and am passionate about experimenting with and challenging the boundaries of today's technology for real-world applications. Basically, I like to make robots and machine learning models work, find ways to make them suck, and iterate again! Explore my portfolio to see my projects, and feel free to connect with me through the contact page!
